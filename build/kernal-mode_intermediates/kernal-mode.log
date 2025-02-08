@@ -1,0 +1,23 @@
+﻿  Building 'kernal-mode' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping C:\Users\rehma\Desktop\asad-driver\build\kernal-mode_intermediates\kernal-mode.inf
+  Stamping [Version] section with DriverVer=02/08/2025,1.4.59.293
+  main.cpp
+  kernal-mode.vcxproj -> C:\Users\rehma\Desktop\asad-driver\build\kernal-mode.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\rehma\Desktop\asad-driver\build\kernal-mode.sys
+  
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\rehma\Desktop\asad-driver\build\kernal-mode\kernal-mode.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\rehma\Desktop\asad-driver\build\kernal-mode\kernal-mode.cat
+  
